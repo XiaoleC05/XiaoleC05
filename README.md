@@ -6,6 +6,7 @@
   本地优先工具的构建者 · 目前把大部分精力放在 **Oxelia51** 上
 
   [![Website](https://img.shields.io/badge/website-oxelia51.com-111827?style=flat-square)](https://oxelia51.com)
+  [![Email](https://img.shields.io/badge/email-714085964%40qq.com-111827?style=flat-square)](mailto:714085964@qq.com)
   [![Followers](https://img.shields.io/github/followers/XiaoleC05?style=flat-square&label=Followers&color=111827)](https://github.com/XiaoleC05?tab=followers)
 </div>
 
@@ -73,6 +74,12 @@
 | [SecretStore](https://github.com/XiaoleC05/SecretStore) | 加密存储 API 密钥、密码等敏感信息 |
 | [SuperRead](https://github.com/XiaoleC05/SuperRead) | RSS 订阅与摘要简报 |
 | [DormGuard](https://github.com/XiaoleC05/DormGuard) | 宿舍电费余额监控，低于阈值自动 QQ 机器人报警 |
+
+<br>
+
+## 📫 联系
+
+[714085964@qq.com](mailto:714085964@qq.com)
 
 <br>
 
