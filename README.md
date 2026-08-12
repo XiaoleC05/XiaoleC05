@@ -10,16 +10,22 @@
   [![Followers](https://img.shields.io/github/followers/XiaoleC05?style=flat-square&label=Followers&color=111827)](https://github.com/XiaoleC05?tab=followers)
 </div>
 
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=XiaoleC05&show_icons=true&count_private=true&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoleC05&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=00000000" />
+</div>
+
 <br>
 
 ## 🚀 Featured — Oxelia51
 
 <div align="center">
 
-[![version](https://img.shields.io/badge/version-0.1.6-blue?style=flat-square)](https://github.com/XiaoleC05/Oxelia51/releases)
+[![version](https://img.shields.io/github/v/release/XiaoleC05/Oxelia51?label=latest%20release&style=flat-square&color=2563eb)](https://github.com/XiaoleC05/Oxelia51/releases)
 [![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/XiaoleC05/Oxelia51/blob/master/LICENSE)
 ![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=flat-square&logo=go)
 ![Tauri](https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri)
+[![Stars](https://img.shields.io/github/stars/XiaoleC05/Oxelia51?style=flat-square&logo=github&label=stars)](https://github.com/XiaoleC05/Oxelia51)
 
 ### 只改一行环境变量，所有 Token 消耗一目了然
 
@@ -47,6 +53,8 @@
                                          │
                                          └──▶ SQLite 本地账本 ──▶ 桌面应用实时展示
 ```
+
+> 如果你觉得它有用，**[给 Oxelia51 点个 Star ⭐](https://github.com/XiaoleC05/Oxelia51)** 就是对我最大的支持。
 
 <br>
 
