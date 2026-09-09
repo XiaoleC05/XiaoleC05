@@ -11,45 +11,6 @@
   [![Followers](https://img.shields.io/github/followers/XiaoleC05?style=flat-square&label=Followers&color=111827)](https://github.com/XiaoleC05?tab=followers)
 </div>
 
-## 🚀 Featured — Oxelia51
-
-<div align="center">
-
-[![version](https://img.shields.io/github/v/release/XiaoleC05/Oxelia51?label=latest%20release&style=flat-square&color=2563eb)](https://github.com/XiaoleC05/Oxelia51/releases)
-[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/XiaoleC05/Oxelia51/blob/master/LICENSE)
-![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=flat-square&logo=go)
-![Tauri](https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri)
-[![Stars](https://img.shields.io/github/stars/XiaoleC05/Oxelia51?style=flat-square&logo=github&label=stars)](https://github.com/XiaoleC05/Oxelia51)
-
-### 只改一行环境变量，所有 Token 消耗一目了然
-
-本地优先的个人 Token 记账本——把 AI 编程工具（Claude Code / Cursor / Trae …）的 Base URL
-指向内置本地代理，之后每一次调用自动落账，按**供应商 / Agent / 模型**三个维度统计用量与成本，
-数据全存本地 SQLite，不登录、不联网也能用。
-
-**[⬇️ 下载桌面版](https://oxelia51.com/download)** · **[📖 文档](https://oxelia51.com/docs)** · **[⭐ 源码](https://github.com/XiaoleC05/Oxelia51)**
-
-</div>
-
-**核心特性**
-
-- 🔌 一行环境变量接入，零侵入，API Key 只转发不落库
-- 📊 供应商 / Agent / 模型三维度用量统计，可下钻到明细
-- 🪟 悬浮玻璃卡片，桌面常驻实时用量与成本
-- 🗂️ 76 条内置供应商路由，国内外主流平台全覆盖
-- 🚨 四维预算告警（全局 / 供应商 / Agent / 模型）
-- ☁️ 可选云同步，多设备按事件去重合并，本地优先
-
-```text
-你的 AI 工具 ──改一行 BASE_URL──▶ 本地代理网关（Go, :17800）──▶ 上游 LLM
-                                         │
-                                         └──▶ SQLite 本地账本 ──▶ 桌面应用实时展示
-```
-
-> 如果你觉得它有用，**[给 Oxelia51 点个 Star ⭐](https://github.com/XiaoleC05/Oxelia51)** 就是对我最大的支持。
-
-<br>
-
 ## 🧰 常用技术栈
 
 <div align="center">
