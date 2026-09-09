@@ -29,8 +29,6 @@
 
 **[⬇️ 下载桌面版](https://oxelia51.com/download)** · **[📖 文档](https://oxelia51.com/docs)** · **[⭐ 源码](https://github.com/XiaoleC05/Oxelia51)**
 
-[![Oxelia51](https://github-readme-stats.vercel.app/api/pin/?username=XiaoleC05&repo=Oxelia51&theme=default&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb)](https://github.com/XiaoleC05/Oxelia51)
-
 </div>
 
 **核心特性**
@@ -57,12 +55,15 @@
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -71,9 +72,7 @@
 ## 📚 博客与笔记
 
 <div align="center">
-
-[![XiaoleC05.github.io](https://github-readme-stats.vercel.app/api/pin/?username=XiaoleC05&repo=XiaoleC05.github.io&theme=default&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb)](https://xiaolec05.github.io)
-
+  <a href="https://xiaolec05.github.io"><strong>xiaolec05.github.io</strong></a>
 </div>
 
 > 技术笔记 / 分类整理的 Hexo + Fluid 站点：软考、后端技术栈等学习记录，按分类浏览与检索。
