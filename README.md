@@ -3,20 +3,13 @@
 
   # Hi, I'm XiaoleC05 👋
 
-  本地优先工具的构建者 · 目前把大部分精力放在 **Oxelia51** 上
+  正在学习 Golang · 后端开发 · 云原生
 
   [![Website](https://img.shields.io/badge/website-oxelia51.com-111827?style=flat-square)](https://oxelia51.com)
   [![Blog](https://img.shields.io/badge/blog-xiaolec05.github.io-111827?style=flat-square)](https://xiaolec05.github.io)
   [![Email](https://img.shields.io/badge/email-714085964%40qq.com-111827?style=flat-square)](mailto:714085964@qq.com)
   [![Followers](https://img.shields.io/github/followers/XiaoleC05?style=flat-square&label=Followers&color=111827)](https://github.com/XiaoleC05?tab=followers)
 </div>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=XiaoleC05&show_icons=true&count_private=true&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoleC05&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=00000000" />
-</div>
-
-<br>
 
 ## 🚀 Featured — Oxelia51
 
