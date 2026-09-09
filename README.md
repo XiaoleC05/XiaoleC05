@@ -6,6 +6,7 @@
   本地优先工具的构建者 · 目前把大部分精力放在 **Oxelia51** 上
 
   [![Website](https://img.shields.io/badge/website-oxelia51.com-111827?style=flat-square)](https://oxelia51.com)
+  [![Blog](https://img.shields.io/badge/blog-xiaolec05.github.io-111827?style=flat-square)](https://xiaolec05.github.io)
   [![Email](https://img.shields.io/badge/email-714085964%40qq.com-111827?style=flat-square)](mailto:714085964@qq.com)
   [![Followers](https://img.shields.io/github/followers/XiaoleC05?style=flat-square&label=Followers&color=111827)](https://github.com/XiaoleC05?tab=followers)
 </div>
@@ -74,14 +75,15 @@
 
 <br>
 
-## 📌 其他项目
+## 📚 博客与笔记
 
-| 项目 | 简介 |
-| --- | --- |
-| [CS2Lab](https://github.com/XiaoleC05/CS2Lab) | Counter-Strike 2 道具实验室：投掷物线路图、点位截图与推荐 |
-| [SecretStore](https://github.com/XiaoleC05/SecretStore) | 加密存储 API 密钥、密码等敏感信息 |
-| [SuperRead](https://github.com/XiaoleC05/SuperRead) | RSS 订阅与摘要简报 |
-| [DormGuard](https://github.com/XiaoleC05/DormGuard) | 宿舍电费余额监控，低于阈值自动 QQ 机器人报警 |
+<div align="center">
+
+[![XiaoleC05.github.io](https://github-readme-stats.vercel.app/api/pin/?username=XiaoleC05&repo=XiaoleC05.github.io&theme=default&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb)](https://xiaolec05.github.io)
+
+</div>
+
+> 技术笔记 / 分类整理的 Hexo + Fluid 站点：软考、后端技术栈等学习记录，按分类浏览与检索。
 
 <br>
 
