@@ -36,8 +36,6 @@
   <a href="https://xiaolec05.github.io"><strong>xiaolec05.github.io</strong></a>
 </div>
 
-> 技术笔记 / 分类整理的 Hexo + Fluid 站点：软考、后端技术栈等学习记录，按分类浏览与检索。
-
 <br>
 
 ## 📫 联系
