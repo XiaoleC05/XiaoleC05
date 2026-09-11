@@ -3,7 +3,7 @@
 
   # Hi, I'm XiaoleC05 👋
 
-  正在学习 Golang · 云端开发 · 云原生
+  正在学习 Golang · 后端开发 · 云原生 · RAG与Context管理
 
   [![Blog](https://img.shields.io/badge/blog-xiaolec05.github.io-E86233?style=flat-square)](https://xiaolec05.github.io)
   [![Email](https://img.shields.io/badge/email-714085964%40qq.com-E86233?style=flat-square)](mailto:714085964@qq.com)
